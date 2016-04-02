@@ -1,0 +1,19 @@
+{
+  "name": "furball",
+  "version": "1.0.0",
+  "description": "Ball of fur in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "toy",
+    "project"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/furball"
+  }
+}
